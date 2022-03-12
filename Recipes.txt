@@ -6,5 +6,8 @@ pasta
 pizza
 chicken
 
+Beans
+coke
+
 
 Thank You :)
